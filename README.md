@@ -1,5 +1,5 @@
 <div align = "center">
-  <img width="750px" src="https://i.imgur.com/n4wIC4d.jpg" title="source: imgur.com"/>
+  <img width="750px" src="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/blob/main/Documentação/BackGround.jpeg"/>
   <hr>
   <h3>
   <p><b>Projeto Integrador / Delivery-C</b></br>
