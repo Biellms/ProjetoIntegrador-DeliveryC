@@ -14,7 +14,7 @@
 <div align = "center">
   <p><b><h3>Fluxograma</b>
   <br><br>
-  <img width="750px" src="https://i.imgur.com/YHbGO20.jpg"/>
+  <img width="750px" src="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/blob/main/Documentação/Fluxograma%20P.I.jpg"/>
   </div>
 <div>
   </div>
