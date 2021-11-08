@@ -46,5 +46,5 @@
 
 - Gabriel Mendes |  <a href="https://www.linkedin.com/in/gabriel-mendes-0706ab1b8" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue" target="_blank"></a> |  <a href="https://github.com/Biellms" target="_blank"><img src="https://img.shields.io/badge/-Github-gray" target="_blank"></a> 
 - Guilherme Rodrigues |  <a href="https://www.linkedin.com/in/guilhermedev/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue" target="_blank"></a> |  <a href="https://github.com/GuilhermeRodriguesSantos?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-Github-gray" target="_blank"></a> 
+- Danilo Menezes | <a href="https://www.linkedin.com/in/danilux-design/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue" target="_blank"></a> |  <a href="https://danilux.design" target="_blank"><img src="https://img.shields.io/badge/-Site-gray" target="_blank"></a> 
 
-<br>
