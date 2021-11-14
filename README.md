@@ -25,8 +25,11 @@
   <p>Em suma, concluímos que, um aplicativo ajudará muito as pequenas e medias padarias na situação na qual vivemos hoje, pois com esse aplicativo amenizaremos os problemas desse tão importante comercio, sendo assim, facilitando as suas vendas para os seus clientes, mesmo sem a interação social, e com isso esse comercio não terá que fechar as suas portas por conta de problemas financeiros e por falta de recursos para se mater. Conseguimos chegar em resultados importantes em nosso projeto, são eles: A tela de cadastro e login, tanto para o cliente quanto pata o comercio. A forma do comercio cadastrar os produtos que o mesmo tem em seu estoque. A parte do cliente comprar os produtos cadastrados pelo comercio. E a efetivação da compra em si. Para o futuro, estamos pensando na forma de entrega dos produtos comprados pelos clientes, pois com isso o cliente receberá a sua compra sem sair de casa, ajudando assim tanto o lado do comercio quanto o lado do cliente.
 </p>
   </div>
-<hr>
 
+<h3><a href="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/tree/main/Documentação" target="_blank"><p target="blank">Documentação 📄</a></h3>
+  
+<hr>  
+  
 ### **Protótipo Navegável** <img align="center" alt="Biell-Figma" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 - <a href="https://www.figma.com/proto/mWN4i7eqHWmI02T7pFGEC4/PADOC%40-TOP-cliente?node-id=422%3A835&scaling=scale-down&page-id=0%3A1" target="_blank"><p target="_blank">Protótipo Cliente</a>
