@@ -2,8 +2,9 @@
   <img width="750px" src="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/blob/main/Documentação/BackGround.jpeg"/>
   <hr>
   <h3>
-  <p><b>Projeto Integrador / Delivery-C</b></br>
-  Projeto integrador feito com a linguagem de programação C, apresentando no 2º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Faculdade das Américas).
+  <b>Projeto Integrador / Delivery-C</b></br></div>
+  <div align = "center">
+  <p>Projeto integrador feito com a linguagem de programação C, apresentando no 2º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Faculdade das     Américas).
   </p>
   </div>
 <hr>
